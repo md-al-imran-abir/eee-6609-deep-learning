@@ -13,7 +13,7 @@ Details of the project can be found in the attached report.
 
 Course teacher: Dr. Mohammad Ariful Haque, Professor, [Dept of EEE](https://eee.buet.ac.bd/), BUET
 
-Topics covered:
+Topics covered in the course:
 - Deep learning basics
 - Deep learning tools
 - Convolutional neural network
